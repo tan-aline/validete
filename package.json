@@ -1,0 +1,22 @@
+{
+  "name": "validete",
+  "version": "1.0.0",
+  "description": "validat",
+  "main": "index.js",
+  "scripts": {
+    "test": "validete"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tan-aline/validete.git"
+  },
+  "keywords": [
+    "abc123456"
+  ],
+  "author": "aaaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tan-aline/validete/issues"
+  },
+  "homepage": "https://github.com/tan-aline/validete#readme"
+}
